@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/alex-darby/terraform-provider-dme/dme"
 	"github.com/hashicorp/terraform/plugin"
-	"github.com/tdmalone/terraform-provider-dme/dme"
 )
 
 func main() {
